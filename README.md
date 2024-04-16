@@ -92,6 +92,7 @@ print(forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']].head())
 
 plot forecast
 model.plot(forecast) pyplot.show()
+
 3. Heart Disease UCI Prediction & Diagnosis
 Using Logistic Regression Code by Hardik :) Dataset by Heart Disease UCI
 
