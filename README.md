@@ -1,6 +1,6 @@
 1.LOADING DIGIT 
 The target of this assignment is to load digits from 0,1,2,3,4,5,6,7,8,9 as we knew that it is Multiclassification dataset.
-from this assignment i have chosen Randomforest, KNN, Decision Tree for compare the acuaracy rate of the result and noted that KNN provide better acuracy score which is 97.5%
+from this assignment i have chosen Randomforest, KNN, Decision Tree to compare the acuaracy rate of the result and noted that KNN provide better acuracy score which is 97.5%
 
 2.Bitcoin Price Forcasting:
 Data descrition:  it is multivariate time series data consist of Timestamp is epoch format, Open price of the day, Highest price of the day, Lowest price of the day, closing price of the day, volume of BTC transactived, volume in currency transactived and weighed price
