@@ -1,4 +1,4 @@
-I.LOADING DIGIT
+I. LOADING DIGIT
 
 1. Imports & reading dataset
 
@@ -17,7 +17,7 @@ from this assignment i have chosen Randomforest, KNN, Decision Tree to compare t
 
 ++++++++++++++++++++++++++++++++++++++++++ 
 
-II.Bitcoin Price Forcasting:
+II. Bitcoin Price Forcasting:
 
 TABLE OF CONTENT
 
@@ -42,7 +42,7 @@ Lastly, give an insight by visualize the prediction and conclusion.
 
 ++++++++++++++++++++++++++++++++++++++++++ 
 
-III.Heart Disease UCI Prediction & Diagnosis
+III. Heart Disease UCI Prediction & Diagnosis
 Using Logistic Regression Code by Hardik :) Dataset by Heart Disease UCI
 
 Dataset Column Description: age in years sex (1 = male; 0 = female) cp chest pain type trestbps resting blood pressure (in mm Hg on admission to the hospital) chol serum cholestoral in mg/dl fbs (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false) restecg resting electrocardiographic results thalach maximum heart rate achieved exang exercise induced angina (1 = yes; 0 = no) oldpeak ST depression induced by exercise relative to rest slope the slope of the peak exercise ST segment ca number of major vessels (0-3) colored by flourosopy thal Value 0: NULL (dropped from the dataset previously) Value 1: fixed defect (no blood flow in some part of the heart) Value 2: normal blood flow Value 3: reversible defect (a blood flow is observed but it is not normal) target 1 or 0
@@ -67,7 +67,7 @@ Table of contents
 
 ++++++++++++++++++++++++++++++++++++++++++ 
 
-IV.BANK MARKETING FIX DEPOSIT
+IV. BANK MARKETING FIX DEPOSIT
    
 TABLE OF CONTENT
 
@@ -87,7 +87,7 @@ DATA DESCRIPTION: The data is related with direct marketing campaigns of a Portu
 
 ++++++++++++++++++++++++++++++++++++++++++ 
 
-V.WEATHER FORCASTING
+V. WEATHER FORCASTING
 
 TABLE OF CONTENT
 
@@ -106,7 +106,13 @@ TABLE OF CONTENT
 7. Conclusion
    
 DATA DESCRIPTION: The main focus on this notebook is to predict the variations of temperature that have occurred in the city of India with past 5 years. We will be examining a time series dataset and utilizing visualizations to better understand the data. Additionally, we will be employing ARIMA to predict the weather patterns from data description below:
-Meantemp:
-Humidity:
-Wind speed:
-meanpressure:
+Meantemp
+Humidity
+Wind speed
+meanpressure
+
+++++++++++++++++++++++++++++++++++++++++++ 
+Credit to:
+https://www.kaggle.com/
+https://my.careerera.com/admin/myCourses.php
+Contact info: sopheng.sok@yahoo.com
