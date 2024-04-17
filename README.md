@@ -105,11 +105,8 @@ TABLE OF CONTENT
 
 7. Conclusion
    
-DATA DESCRIPTION: The main focus on this notebook is to predict the variations of temperature that have occurred in the city of India with past 5 years. We will be examining a time series dataset and utilizing visualizations to better understand the data. Additionally, we will be employing ARIMA to predict the weather patterns from data description below:
-Meantemp
-Humidity
-Wind speed
-meanpressure
+DATA DESCRIPTION: The main focus on this notebook is to predict the variations of temperature that have occurred in the city of India with past 5 years. We will be examining a time series dataset and utilizing visualizations to better understand the data. Additionally, we will be employing ARIMA to predict the weather patterns from data description:
+Meantemp; Humidity; Wind speed; meanpressure
 
 ++++++++++++++++++++++++++++++++++++++++++ 
 
